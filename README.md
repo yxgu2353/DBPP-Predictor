@@ -1,4 +1,4 @@
 # DBPP-Predictor
 The codes and data for DBPP-Predictor.
 
-For the DBPP-predictor standalone software is available at 
+For the DBPP-predictor standalone software is available at https://www.amazon.com/clouddrive/share/f9d5ZQk6UE5ayGSKfnZJu93Cg2SSQE4el9SMM7aZpUK.
