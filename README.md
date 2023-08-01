@@ -31,7 +31,7 @@ python Property_Profiles_csv.py
 ## Model training
 ### GNN models
 The four GNN models can be trained as follow:
-python AttentiveFP_classify.py
+"""python AttentiveFP_classify.py"""
 python GAT_classify.py
 python GCN_classify.py
 python GraphSAGE_classify.py
@@ -44,3 +44,5 @@ python DBPP_model.py
 All the models in this study were available in the ‘models’ folder.
 
 ## DBPP score
+The DBPP score can be utilized for the assessment of drug-like properties of new compounds. It can be implemented as follows:
+python Model_Validation.py
