@@ -1,5 +1,5 @@
 # DBPP-Predictor
-The codes and data for DBPP-Predictor.
+The codes and data for the DBPP-Predictor.
 
 ## Requipments
 * python 3.7
