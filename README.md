@@ -14,9 +14,18 @@ The codes and data for DBPP-Predictor.
 
 ## Standalone software available
 The DBPP-predictor standalone software is available at https://www.amazon.com/clouddrive/share/f9d5ZQk6UE5ayGSKfnZJu93Cg2SSQE4el9SMM7aZpUK.(Amazon Drive)
-or https://figshare.com/articles/software/DBPP-Predictor_standalone_software/23813805 (Figshare)
+_or_ 
+https://figshare.com/articles/software/DBPP-Predictor_standalone_software/23813805 (Figshare)
 
-## Trained model
+## Molecular representation
+In this study, four representation methods were explored including molecular descriptors, molecular fingerprints, molecular graphs and property profiles. They can be implemented as follows:
+
+### Molecular descriptors
+"<python descriptor_calc.py>"
+### Molecular fingerprints
+"<python FP_calc.py>"
+### Property profiles
+"<python Property_Profiles_csv.py>"
 
 
 ## DBPP-Predictor scoring
