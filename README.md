@@ -31,10 +31,14 @@ python Property_Profiles_csv.py
 ## Model training
 ### GNN models
 The four GNN models can be trained as follow:
-"""python AttentiveFP_classify.py"""
+
+```
+python AttentiveFP_classify.py
 python GAT_classify.py
 python GCN_classify.py
 python GraphSAGE_classify.py
+
+```
 ### Logistic regression model based on QED
 python LR_QED.py
 ### DBPP-Predictor
