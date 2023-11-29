@@ -16,7 +16,7 @@ The codes and data for the DBPP-Predictor.
 The DBPP-predictor standalone software is available at https://www.amazon.com/clouddrive/share/f9d5ZQk6UE5ayGSKfnZJu93Cg2SSQE4el9SMM7aZpUK (Amazon Drive)
 _or_ 
 https://figshare.com/articles/software/DBPP-Predictor_standalone_software/23813805 (Figshare)  
-  Guidance:  
+  **Guidance:**  
   1.download: Full version standlone software available at Amazon Drive and Figshare repositories.  
   2.Access: The DBPP-Predictor standalone software does not need to be installed, users can start using it by double clicking DBPP_Software\dist\DBPP_Predictor.exe file.  
   3.Usage: Detailed instructions can be obtained through the "Help" button of the software.  
